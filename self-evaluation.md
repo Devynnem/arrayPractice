@@ -1,0 +1,3 @@
+- On a scale of 1-5, 5 being the highest, I feel a 4.1
+- I think just continuing to practice will be a big help
+- What are the most common used arrays?
