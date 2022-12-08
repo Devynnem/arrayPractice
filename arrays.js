@@ -10,3 +10,5 @@ console.log(temperature)
 // push will add another false element to my cold array
 cold.push(false)
 console.log(cold)
+
+// index position = 0 and is the first element in each array always
